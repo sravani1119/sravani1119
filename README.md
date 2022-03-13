@@ -1,4 +1,4 @@
-### Hi there 👋,  I am Sravani Nalla pursuing Master's in computer science in Northwest Missouri State University. I have two years of experience as a software developer in Capgemini.
+### Hi there 👋
 
 <!--
 **sravani1119/sravani1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
